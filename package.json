@@ -1,0 +1,14 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "Websites for Grunt Demo",
+  "main": "index.js",
+  "author": "Pankaj K",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-cssmin": "^2.0.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-uglify": "^2.3.0"
+  }
+}
